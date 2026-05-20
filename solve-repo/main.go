@@ -12,8 +12,10 @@ func main() {
 	// solve.SwapInts(3, 12)
 	// solve.SwapStrings("Rapheal", "Ogah")
 	// solve.AskInput()
-	solve.CheckNumber(5)
-	solve.GradeSys(71)
-	solve.Agechecker(-8)
-
+	// solve.CheckNumber(5)
+	// solve.GradeSys(71)
+	// solve.Agechecker(-8)
+	// solve.AskInput()
+	solve.SimpleCalculator()
+	// solve.BmiCalculator()
 }

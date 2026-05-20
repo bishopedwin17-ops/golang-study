@@ -20,7 +20,7 @@
 
 3. Build an age restriction system. [x]
 
-4. Determine if a year is a leap year.
+4. Determine if a year is a leap year.[...]
 
 ## Bonus Challenges
 - Nested conditions
