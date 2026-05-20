@@ -6,8 +6,8 @@
 
 ## Tasks
 1. Ask the user for:
-- name
-- age
+- name [x]
+- age [x]
 
 2. Print:
 ```text

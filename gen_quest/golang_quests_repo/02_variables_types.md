@@ -1,30 +1,33 @@
 # Quest 02 — Variables & Data Types
 
 ## Objectives
-- Learn variables
-- Learn primitive data types
-- Understand type inference
+- Learn variables [x]
+- Learn primitive data types [x]
+- Understand type inference [x]
 
 ## Tasks
 1. Create variables for:
-- name
-- age
-- height
-- isStudent
+- [x] name
+- [x] age
+- [x] height
+- [x] isStudent
 
-2. Print their values and types.
+2. [x] Print their values and types.
 
-3. Swap two numbers without using a third variable.
+3. [x] Swap two numbers without using a third variable.
 
-4. Create a temperature converter:
-- Celsius to Fahrenheit
-- Fahrenheit to Celsius
+4. [.] Create a temperature converter:
+- [x] Celsius to Fahrenheit
+- [x]Fahrenheit to Celsius
+- [x] Celcius to Kelvin
+- [x] Kelvin to Celcius
+- [x] Fahrenheit to Kelvin 
 
 ## Bonus Challenges
-- Use constants
-- Use shorthand variable declaration
+- Use constants [x]
+- Use shorthand variable declarationb [x]
 
 ## Expected Skills
-- Variables
-- Types
-- Type conversion
+- Variables [x]
+- Types [x]
+- Type conversion [.]

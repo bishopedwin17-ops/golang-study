@@ -42,9 +42,9 @@ go-learning/
 ```
 
 **Tasks:**
-- [ ] 1. Create the folder structure above
-- [ ] 2. Write a bash script that automates project setup
-- [ ] 3. Add a `.gitignore` file for Go projects
-- [ ] 4. Initialize git repository with meaningful commit messages
+- [x] 1. Create the folder structure above
+- [x] 2. Write a bash script that automates project setup
+- [x] 3. Add a `.gitignore` file for Go projects
+- [x] 4. Initialize git repository with meaningful commit messages
 
 ---
