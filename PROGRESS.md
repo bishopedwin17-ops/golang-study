@@ -54,6 +54,29 @@ Mark an exercise when you can solve it **from memory** in under 10 minutes.
 
 ---
 
+## 🏁 Checkpoint 03 — Data Structures & Logic
+
+### Slices, Strings & Bits
+- [ ] `split` — Recreate strings.Split
+- [ ] `activebits` — Count 1s in binary representation
+- [ ] `sortwordarr` — Sort a slice of strings (ASCII)
+- [ ] `advancedsortwordarr` — Sort with a custom function
+
+### Linked Lists
+- [ ] `listpushback` — Insert at end of list
+- [ ] `listsize` — Count list elements
+- [ ] `listlast` — Get data from last node
+- [ ] `listreverse` — Reverse a linked list in place
+- [ ] `listremoveif` — Remove matching nodes
+
+### Binary Trees
+- [ ] `btreeinsertdata` — Insert string into BST
+
+### Programs
+- [ ] `doop` — Command-line calculator (+, -, *, /, %) with edge cases
+
+---
+
 ## 📚 Module Progress (15 Modules)
 
 ### Core Language
