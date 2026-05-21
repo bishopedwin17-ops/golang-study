@@ -35,3 +35,7 @@ go.work.sum
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Workspace and Logs
+*.log
+*.code-workspace
