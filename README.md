@@ -36,6 +36,16 @@ For concurrency and advanced modules, use the race detector to catch hidden race
 go test -race ./...
 ```
 
+## Textbook Reference
+
+A companion textbook has been added to the repository as a study asset:
+- `resources/textbooks/thegobook.pdf`
+- `resources/textbooks/thegobook/README.md`
+- `resources/textbooks/thegobook/toc.md`
+- `resources/textbooks/thegobook/mapping.md`
+
+Use these files to map textbook chapters directly to the repo topics and exercises.
+
 ## Prerequisites
 
 - Go 1.18 or higher installed on your system.
